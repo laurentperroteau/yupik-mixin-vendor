@@ -1,0 +1,26 @@
+{
+  "name": "grand-wazoo-function",
+  "version": "0.0.1",
+  "homepage": "https://github.com/laurentperroteau/grand-wazoo-function",
+  "authors": [
+    "laurentperroteau <laurentperroteau@gmail.com>"
+  ],
+  "description": "'Response' function and other functions only useful to mixin",
+  "main": "_tool.function.scss",
+  "keywords": [
+    "grandwazoo",
+    "inuitcss",
+    "oocss",
+    "sass",
+    "scss",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
