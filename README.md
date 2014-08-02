@@ -1,5 +1,5 @@
 Yupik Function
-====================
+==============
 
 ## reworking in progress !
 
