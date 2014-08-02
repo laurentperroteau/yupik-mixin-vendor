@@ -1,4 +1,4 @@
-Grand Wazoo Function
+Yupik Function
 ====================
 
 ## reworking in progress !
@@ -7,4 +7,4 @@ Grand Wazoo Function
 
 Install using Bower:
 
-    $ bower install --save git://github.com/laurentperroteau/grand-wazoo-function.git
+    $ bower install --save yupik-function
