@@ -1,0 +1,18 @@
+
+// -------------------------- //
+// ::: Yupik Mixin Vendor ::: //
+// -------------------------- //
+
+// Default variable
+$yupik-vendor: false !default;
+
+@mixin vendor($property, $value...) {
+
+    @if $yupik-vendor {
+
+    -webkit-#{$property}:$value;
+       -moz-#{$property}:$value;
+        -ms-#{$property}:$value;
+    }
+            #{$property}:$value;
+}

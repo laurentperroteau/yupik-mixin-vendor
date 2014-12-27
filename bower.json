@@ -1,12 +1,12 @@
 {
-  "name": "yupik-function",
+  "name": "yupik-mixin-vendor",
   "version": "0.0.1",
-  "homepage": "https://github.com/laurentperroteau/yupik-function",
+  "homepage": "https://github.com/laurentperroteau/yupik-mixin-vendor",
   "authors": [
     "laurentperroteau <laurentperroteau@gmail.com>"
   ],
-  "description": "'Response' function and other functions only useful to mixin",
-  "main": "_tool.function.scss",
+  "description": "Mixin that generates vendor prefix",
+  "main": "_mixins.vendor.scss",
   "keywords": [
     "grandwazoo",
     "inuitcss",

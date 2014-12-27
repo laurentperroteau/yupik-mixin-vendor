@@ -1,10 +1,16 @@
-Yupik Function
-==============
+Yupik Vendor
+============
 
-## reworking in progress !
+### Mixin that generates vendor prefix
 
-### "Response" function and other functions only useful to mixin
+> Is part of [Yupik collection of modules](https://github.com/laurentperroteau/yupik)
+
+The generation of prefix is disabled by default, add this variable to activate :
+
+````scss
+$yupik-vendor: true;
+````
 
 Install using Bower:
 
-    $ bower install --save yupik-function
+    $ bower install --save yupik-vendor
