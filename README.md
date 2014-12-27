@@ -5,7 +5,7 @@ Yupik Vendor
 
 > Is part of [Yupik collection of modules](https://github.com/laurentperroteau/yupik)
 
-The generation of prefix is disabled by default, add this variable to activate :
+The generation of prefix is disabled by default, but if you don't use Autoprefixer or Compass, add this variable to enable :
 
 ````scss
 $yupik-vendor: true;
@@ -13,4 +13,4 @@ $yupik-vendor: true;
 
 Install using Bower:
 
-    $ bower install --save yupik-vendor
+    $ bower install --save yupik-mixin-vendor
